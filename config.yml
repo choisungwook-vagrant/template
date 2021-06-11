@@ -1,0 +1,7 @@
+server:
+  name: testvm
+  box: centos/7
+  hostname: "hello"
+  ip: 192.168.25.33
+  memory: 2048
+  cpu: 2
